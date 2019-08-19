@@ -11,4 +11,4 @@ target/
 .project
 
 # jrebel #
-src/main/resources/rebel.xml
+src/main/resources/rebel.xml 
